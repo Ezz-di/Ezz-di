@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Ezz-di/Ezz-di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a software engineer based in Paris, FR 🇫🇷
+- 🕵🏻‍♂️ Attention to detail, I strive for high qualities from top to bottom
+- 🎣 Love sharing my ideas and I am open minded.
+- 👁 I always looking for simple solutions over complex ones while keeping long-term scalability in mind.
+- 🔭 I’m currently working on some intersting subjects 🚀
+- 🌱 I’m currently learning some data & software engineering best tools and programming languages
+- 💬 Ask me about data 
+- 📫 How to reach me: ezeeddine@proton.me
+- 😄 Pronouns: He
+- ✈️ My favorite hobby is traveling. I visited many countries/cities (🇺🇸, 🇬🇧, 🇪🇸, 🇭🇷, 🇵🇹, 🇷🇴) arround the world.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
