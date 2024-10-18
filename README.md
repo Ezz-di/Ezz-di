@@ -9,7 +9,4 @@ I am a software engineer based in Paris, FR 🇫🇷
 - 🌱 I’m currently learning some data & software engineering best tools and programming languages
 - 💬 Ask me about data 
 - 📫 How to reach me: ezeeddine@proton.me
-- 😄 Pronouns: He
-- ✈️ My favorite hobby is traveling. I visited many countries/cities (🇺🇸, 🇬🇧, 🇪🇸, 🇭🇷, 🇵🇹, 🇷🇴) arround the world.   
-
 
