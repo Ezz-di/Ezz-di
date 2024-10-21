@@ -1,12 +1,23 @@
-### Hi there 👋
+# 👋 Hello, I'm Eze Eddine
 
+## 🚀 Software Engineer | Paris, France 🇫🇷
 
-I am a software engineer based in Paris, FR 🇫🇷
-- 🕵🏻‍♂️ Attention to detail, I strive for high qualities from top to bottom
-- 🎣 Love sharing my ideas and I am open minded.
-- 👁 I always looking for simple solutions over complex ones while keeping long-term scalability in mind.
-- 🔭 I’m currently working on some intersting subjects 🚀
-- 🌱 I’m currently learning some data & software engineering best tools and programming languages
-- 💬 Ask me about data 
-- 📫 How to reach me: ezeeddine@proton.me
+### What I'm all about:
+
+- 💡 Crafting elegant, scalable solutions to complex problems
+- 🔍 Diving deep into data & software engineering best practices
+- 🌟 Turning ideas into reality through code
+
+### Currently working on:
+- 🔭 Exciting projects at the intersection of data and software engineering
+- 🌱 Expanding my toolkit with cutting-edge technologies
+
+### Let's connect:
+- 💬 Ask me about anything related to software architecture or data engineering
+- 📫 Reach me at: ezeeddine@proton.me
+- 🌐 [https://www.linkedin.com/in/eze-eddine/]
+
+---
+
+*"The best code is no code at all." - Jeff Atwood*
 
